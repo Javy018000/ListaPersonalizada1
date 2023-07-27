@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, SD | CARACOL
+#EXTINF:-1, Caracol 144p
 http://191.102.90.97:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1,Caracol T-K
+#EXTINF:-1,Caracol INT hd
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol2
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1,Nick HD
+http://187.102.210.164:8000/play/a01c/index.m3u8
+
+#EXTINF:-1,HBO Family HD
+http://187.102.210.164:8000/play/a00v/index.m3u8
+
+#EXTINF:-1,Nat Geo HD
+http://187.102.210.164:8000/play/a020/index.m3u8
