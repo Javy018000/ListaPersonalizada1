@@ -14,3 +14,6 @@ http://187.102.210.164:8000/play/a00v/index.m3u8
 
 #EXTINF:-1,Nat Geo HD
 http://187.102.210.164:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF-Nick 2 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-Nick 2 (PM)(720)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/1891
