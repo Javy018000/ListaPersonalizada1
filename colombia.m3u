@@ -20,3 +20,19 @@ http://192.168.100.10:30001/proxy/3T53RsDF/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF-Nick 2 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-Nick 2 (PM)(720)
 http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/1891
+
+
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M) (SD)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/22144
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M)(1080)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/59848
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (TV)(720)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/59847
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (X)(1080)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/115772
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (X)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (X)(720)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/118351
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol 2 (X)(720)" tvg-logo="https://lh3.googleusercontent.com/-HUN-e9hEmeo/YmxO22fDzlI/AAAAAAAADg4/ae3ybD14OHEIXlsudK8_b2sIh5fttNcXgCNcBGAsYHQ/w200-h200/1651265242427735-53.png" group-title="COLOMBIA",COL-Caracol 2 (X)(720)
+http://latintvec.com:43201/JayHarris2021/97VKTeNGhH/153307
+
