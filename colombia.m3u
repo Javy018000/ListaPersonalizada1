@@ -1,160 +1,69 @@
 #EXTM3U
-
-#EXTINF:-1, Caracol 144p
-http://191.102.90.97:8000/play/a0ga/index.m3u8
-
-#EXTINF:-1,Caracol INT hd
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
-#EXTINF:-1,Nick HD
-http://187.102.210.164:8000/play/a01c/index.m3u8
-
-#EXTINF:-1,HBO Family HD
-http://187.102.210.164:8000/play/a00v/index.m3u8
-
-#EXTINF:-1,Nat Geo HD
-http://187.102.210.164:8000/play/a020/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="•●★--DEPORTES COLOMBIA--★●•" tvg-logo="" group-title="COLOMBIA",•●★--DEPORTES COLOMBIA--★●•
-http://tv.proyectox.vip:43201/Carola1/Carola1/60143
+http://europass.site:8080/noelrod/7smlZnMIgA/60143
 #EXTINF:-1 tvg-id="" tvg-name="COL-PPV 1 EVENTOS 1 (e)(1080)" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/846.png" group-title="COLOMBIA",COL-PPV 1 EVENTOS 1 (e)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/178018
-#EXTINF:-1 tvg-id="" tvg-name="COL-PPV 2 EVENTOS 2 (e)(1080)" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/846.png" group-title="COLOMBIA",COL-PPV 2 EVENTOS 2 (e)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/178019
+http://europass.site:8080/noelrod/7smlZnMIgA/178018
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-PPV 2 EVENTOS 2 (T)(1080)" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/846.png" group-title="COLOMBIA",COL-PPV 2 EVENTOS 2 (T)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/178019
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/23129
+http://europass.site:8080/noelrod/7smlZnMIgA/23129
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-Winsport + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-Winsport + (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59855
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (C)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (C)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/23130
+http://europass.site:8080/noelrod/7smlZnMIgA/59855
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (X)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/144406
+http://europass.site:8080/noelrod/7smlZnMIgA/23130
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (X)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (X)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/144406
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="COL-WinSports + (L)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA",COL-WinSports + (L)(SD)
+http://europass.site:8080/noelrod/7smlZnMIgA/309412
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/3419
+http://europass.site:8080/noelrod/7smlZnMIgA/3419
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL-WinSports (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",COL-WinSports (L)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/309411
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL-Winsports (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-Winsports (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59856
+http://europass.site:8080/noelrod/7smlZnMIgA/59856
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL-WinSports (L)(SD)" tvg-logo="http://live.detodotvplay.com:2095/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",COL-WinSports (L)(SD)
+http://europass.site:8080/noelrod/7smlZnMIgA/309413
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/3420
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="COL-Directv Sports + (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="COLOMBIA",COL-Directv Sports + (TV)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/154284
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="COL-Directv Sports (X)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="COLOMBIA",COL-Directv Sports (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/154283
+http://europass.site:8080/noelrod/7smlZnMIgA/3420
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports (M)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22142
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M) (SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22144
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59848
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59847
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (X)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/115772
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (C)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (C)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118351
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol 2 (C)(720)" tvg-logo="https://lh3.googleusercontent.com/-HUN-e9hEmeo/YmxO22fDzlI/AAAAAAAADg4/ae3ybD14OHEIXlsudK8_b2sIh5fttNcXgCNcBGAsYHQ/w200-h200/1651265242427735-53.png" group-title="COLOMBIA",COL-Caracol 2 (C)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/153307
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="COL-Caracol Internacional (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png" group-title="COLOMBIA",COL-Caracol Internacional (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/53535
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="COL-Caracol Internacional (X)(720)" tvg-logo="https://1.bp.blogspot.com/-ddsaydjeZJQ/X3IYTv7U7II/AAAAAAAABgs/Mf4fwd6pAocr6ExMMqi4Bo2WbOhfZi8qACLcBGAsYHQ/w200-h200/Caracol%2BInternacional.png" group-title="COLOMBIA",COL-Caracol Internacional (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118352
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (X)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22137
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (SD) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (SD) (M)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22135
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (TV)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59852
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (X)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118353
-#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="COL-RCN Novelas (M)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" group-title="COLOMBIA",COL-RCN Novelas (M)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22133
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COL-RCN Novelas (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" group-title="COLOMBIA",COL-RCN Novelas (TV)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59854
-#EXTINF:-1 tvg-id="RcnNuestra.co" tvg-name="COL-RCN Nuestra Tele (M)" tvg-logo="https://1.bp.blogspot.com/-D_fKGhbIo0A/XjbsMVuamQI/AAAAAAAAA_Q/ZOGFVYBo_DkSXZuXr4RPRnfw3HVVcz7hQCLcBGAsYHQ/s200/28.png" group-title="COLOMBIA",COL-RCN Nuestra Tele (M)
-http://tv.proyectox.vip:43201/Carola1/Carola1/22134
-#EXTINF:-1 tvg-id="RcnNuestra.co" tvg-name="COL-RCN Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN Internacional (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118354
+http://europass.site:8080/noelrod/7smlZnMIgA/22142
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="COL-Directv Sports (X)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="COLOMBIA",COL-Directv Sports (X)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/154283
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="COL-Directv Sports + (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="COLOMBIA",COL-Directv Sports + (TV)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/154284
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (TV)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59845
-#EXTINF:-1 tvg-id="CanalUno.co" tvg-name="COL-Canal Uno (X)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" group-title="COLOMBIA",COL-Canal Uno (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118350
+http://europass.site:8080/noelrod/7smlZnMIgA/59845
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (X)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/59848
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (X)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/115772
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol. (X)(1080)" tvg-logo="https://lh3.googleusercontent.com/-HUN-e9hEmeo/YmxO22fDzlI/AAAAAAAADg4/ae3ybD14OHEIXlsudK8_b2sIh5fttNcXgCNcBGAsYHQ/w200-h200/1651265242427735-53.png" group-title="COLOMBIA",COL-Caracol. (X)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/153307
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (L)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (L)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/118351
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M) (SD)
+http://europass.site:8080/noelrod/7smlZnMIgA/22144
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (TV)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/59847
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="COL-Caracol Internacional (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png" group-title="COLOMBIA",COL-Caracol Internacional (M)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/53535
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="COL-Caracol Internacional (X)(720)" tvg-logo="https://1.bp.blogspot.com/-ddsaydjeZJQ/X3IYTv7U7II/AAAAAAAABgs/Mf4fwd6pAocr6ExMMqi4Bo2WbOhfZi8qACLcBGAsYHQ/w200-h200/Caracol%2BInternacional.png" group-title="COLOMBIA",COL-Caracol Internacional (X)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/118352
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (TV)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/59852
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (X)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/22137
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (SD) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (SD) (M)
+http://europass.site:8080/noelrod/7smlZnMIgA/22135
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COL-RCN Novelas (X)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" group-title="COLOMBIA",COL-RCN Novelas (X)
+http://europass.site:8080/noelrod/7smlZnMIgA/22133
+#EXTINF:-1 tvg-id="RcnNuestra.co" tvg-name="COL-RCN Nuestra Tele (M)" tvg-logo="https://1.bp.blogspot.com/-D_fKGhbIo0A/XjbsMVuamQI/AAAAAAAAA_Q/ZOGFVYBo_DkSXZuXr4RPRnfw3HVVcz7hQCLcBGAsYHQ/s200/28.png" group-title="COLOMBIA",COL-RCN Nuestra Tele (M)
+http://europass.site:8080/noelrod/7smlZnMIgA/22134
+#EXTINF:-1 tvg-id="RcnNuestra.co" tvg-name="COL-RCN Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN Internacional (TV)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/118354
 #EXTINF:-1 tvg-id="CanalUno.co" tvg-name="COL-Canal Uno (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" group-title="COLOMBIA",COL-Canal Uno (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/59846
-#EXTINF:-1 tvg-id="CityTV.co" tvg-name="COL-City TV (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png" group-title="COLOMBIA",COL-City TV (X)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118369
-#EXTINF:-1 tvg-id="ElTiempo.co" tvg-name="COL-El Tiempo (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZfPk7CZDuF0/X3IuMx8HCqI/AAAAAAAABkA/nNgMEW-pVeIAB9HnW2tXTxWAyG-PTq_mgCLcBGAsYHQ/w200-h200/El%2Btiempo.png" group-title="COLOMBIA",COL-El Tiempo (TV)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118370
-#EXTINF:-1 tvg-id="NuestraTeleNoticias24.co" tvg-name="COL-NTN 24 (X)(720)" tvg-logo="https://1.bp.blogspot.com/-dgEzsx4CnZ0/X3JEMbsOJvI/AAAAAAAABk4/PPbEgQ4Dip8Lcw2VCq64vg8xgw0mPYXhACLcBGAsYHQ/w200-h200/Ntnt24.png" group-title="COLOMBIA",COL-NTN 24 (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118365
-#EXTINF:-1 tvg-id="Senal.co" tvg-name="COL-Señal Colombia (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-A844AbOBuTo/X3IscaXacMI/AAAAAAAABjg/BagchfpTOu4qZ_vk7UBpeIxTkRWVE_xRACLcBGAsYHQ/w200-h200/Se%25C3%25B1al%2BColombia.png" group-title="COLOMBIA",COL-Señal Colombia (X)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118372
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL-TeleAntioquia (X)(720)" tvg-logo="https://1.bp.blogspot.com/-w5pYQM0YFcM/YJIS5tiWBqI/AAAAAAAACJ4/I9WLhqQ-Z1cmiBaPuMhlZVsqx9i-w9s3wCLcBGAsYHQ/w200-h200/TeleAntioquia.png" group-title="COLOMBIA",COL-TeleAntioquia (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118356
-#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="COL-TeleCafe (M)" tvg-logo="https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png" group-title="COLOMBIA",COL-TeleCafe (M)
-http://tv.proyectox.vip:43201/Carola1/Carola1/5359
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-name="COL-Telemedellin (X)(720)" tvg-logo="https://1.bp.blogspot.com/-3W2BTrQegdw/XbDQyjKTBJI/AAAAAAAAAo8/62RahsE9FbwAzQ4XRGv3-5V6Ov163gKHACLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Telemedellin (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118358
-#EXTINF:-1 tvg-id="HTVMusica.pa" tvg-name="COL-TeleMusica (X)(720)" tvg-logo="" group-title="COLOMBIA",COL-TeleMusica (X)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118371
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="COL-Telepacifico (X)(SD)" tvg-logo="" group-title="COLOMBIA",COL-Telepacifico (X)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118410
-#EXTINF:-1 tvg-id="AgroTV.mx" tvg-name="COL-TV Agro (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png" group-title="COLOMBIA",COL-TV Agro (TV)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/118373
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF-Baby First (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-e2fNIV-SPZg/XbCJ779SimI/AAAAAAAAAnI/gnkHgVl1IjkHPfPhMUyEzUnR7ysP9jsgQCLcBGAsYHQ/s200/2.png" group-title="CANALES-INFANTILES",INF-Baby First (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26886
-#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF-Baby First (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-AQZxy6gL0Pk/XbCJ6CxOMZI/AAAAAAAAAmw/s41-Qh-6raYO5woohswYiGqNHWOmyEA4QCLcBGAsYHQ/s200/1.png" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26883
-#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="INF-Boomerang (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Boomerang (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1370
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26884
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1372
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26879
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1375
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF-Discovery Kids (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26887
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26881
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="CANALES-INFANTILES",INF-Disney Channel (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1377
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="CANALES-INFANTILES",INF-Disney Jr (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1379
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="CANALES-INFANTILES",INF-Disney Jr (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1380
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF-Disney JR (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="CANALES-INFANTILES",INF-Disney JR (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26878
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF-Nick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1387
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1388
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF-Nick 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-Nick 2 (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1390
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF-Nick 2 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-Nick 2 (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26876
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1392
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1393
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF-Nick JR (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick JR (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26882
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF-Nickelodeon (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(1080)
-http://tv.proyectox.vip:43201/Carola1/Carola1/26885
-#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1394
-#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="INF-Nicktoons (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/1395
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-5MLJQdlI9Oc/Xpl10dAV6OI/AAAAAAAABtk/syeOahPosZY6kPeO9yIZkQibTCf8G_xWgCLcBGAsYHQ/s200/ben10.png" group-title="24/7 INFANTIL",24/7 Ben 10 (e)(720)
-http://tv.proyectox.vip:43201/Carola1/Carola1/37819
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 Alien Force (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-Re3p5MORkLw/XtQQHgp1XpI/AAAAAAAAAQQ/IwyZOHqS2U82YgndSG8UdDPx743cFt7iACK4BGAsYHg/s320/ben10AlienForce.png" group-title="24/7 INFANTIL",24/7 Ben 10 Alien Force (e)(SD)
-http://tv.proyectox.vip:43201/Carola1/Carola1/37867
-
-
+http://europass.site:8080/noelrod/7smlZnMIgA/59846
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name="COL-Canal Uno (X)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" group-title="COLOMBIA",COL-Canal Uno (X)(720)
+http://europass.site:8080/noelrod/7smlZnMIgA/118350
+#EXTINF:-1 tvg-id="CityTV.co" tvg-name="COL-City TV (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png" group-title="COLOMBIA",COL-City TV (X)(1080)
+http://europass.site:8080/noelrod/7smlZnMIgA/118369
